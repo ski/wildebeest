@@ -2,8 +2,8 @@
 # It is needed so that Wrangler can run the d1 commands to create the db and process migrations.
 name = "wildebeest"
 main = "src/index.ts"
-compatibility_date = "2022-12-05"
-node_compat = true
+compatibility_date = "2026-04-25"
+compatibility_flags = ["nodejs_compat"]
 
 # Specify your account id here so that all commands run agains the correct account.
 # account_id = "<your account id>"

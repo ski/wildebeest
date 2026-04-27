@@ -3,7 +3,7 @@
 	"description": "App with Routing built-in (recommended)",
 	"type": "module",
 	"engines": {
-		"node": ">=15.0.0"
+		"node": ">=18.0.0"
 	},
 	"private": true,
 	"scripts": {
@@ -19,7 +19,7 @@
 		"@builder.io/qwik-city": "0.4.0",
 		"@types/eslint": "8.4.10",
 		"@types/jest": "^29.2.4",
-		"@types/node": "^18.11.16",
+		"@types/node": "^20.11.0",
 		"@types/node-fetch": "latest",
 		"@typescript-eslint/eslint-plugin": "5.46.1",
 		"@typescript-eslint/parser": "5.46.1",
@@ -35,7 +35,7 @@
 		"sass": "^1.57.0",
 		"tailwindcss": "^3.1.8",
 		"ts-jest": "^29.0.3",
-		"typescript": "4.9.4",
+		"typescript": "^5.9.0",
 		"undici": "5.19.1",
 		"vite": "4.0.1",
 		"vite-tsconfig-paths": "3.5.0"
